@@ -1,3 +1,9 @@
-🌙 i only do this for the dopamine i promise
+### Hey! 👋
 
-🌤️ my main languages: java, c++
+I'm someone who is passionate in MMOs and World of Warcraft emulation.
+
+Main languages I use:
+
+- Java
+- C++
+
